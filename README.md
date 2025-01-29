@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello, welcome to Leo's github.
 
-<!--
-**KenPascual/KenPascual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>I am currently a sophomore Computer Engineering student at Technological Institute of the Philippines - Quezon City, motivated with a passion to explore and try new things in the field of technology to be able to utilize them in making the world a better place for everyone. I am pretty much flexible with what I can do so that I can easily fit in with any role when it comes to collaborating with others.</br> 
+<br>
+I've been interested in Data Science lately since I believe that providing the right information and insights based on data is crucial in how society runs. I am also quite interested with statistics since high school, so I think that played a part too.
+</br>
+<br>Issues:</br>
+<br>Usually procrastinates on stuff.</br>
+<br>Prefers to work alone.</br>
 
-Here are some ideas to get you started:
+<br>--------------------------------------------------------------------</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>This readme is still subject for changes >____< </br>
+<br>Not flashy enough. 3/10. Bro is cooked.</br>

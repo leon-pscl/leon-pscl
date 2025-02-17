@@ -4,9 +4,6 @@
 <br>
 I've been interested in Data Science lately since I believe that providing the right information and insights based on data is crucial in how society runs. I am also quite interested with statistics since high school, so I think that played a part too.
 </br>
-<br>Issues:</br>
-<br>Usually procrastinates on stuff.</br>
-<br>Prefers to work alone.</br>
 
 <br>--------------------------------------------------------------------</br>
 

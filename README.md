@@ -4,4 +4,8 @@ I am currently a sophomore Computer Engineering student at Technological Institu
 I've been interested in Data Science lately since I believe that providing the right information and insights based on data is crucial in how society runs. I am also quite interested with statistics since high school, so I think that played a part too.
 <br>
 
-##Other things about me:
+## Other things about me:
+- Quite experienced in using Microsoft Excel (still can't understand VLOOKUP tho)
+- Mediocre at multiplayer games
+- Likes to mess around with virtual synthesizers via FL Studio and similar DAWs
+- Loves painting using poster paint and watercolor as a pasttime

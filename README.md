@@ -8,4 +8,4 @@ I've been interested in Data Science lately since I believe that providing the r
 - Quite experienced in using Microsoft Excel (still can't understand VLOOKUP tho)
 - Mediocre at multiplayer games
 - Likes to mess around with virtual synthesizers via FL Studio and similar DAWs
-- Loves painting using poster paint and watercolor as a pasttime
+- Currently learning to make pixel art

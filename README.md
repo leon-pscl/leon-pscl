@@ -6,4 +6,4 @@ This profile contains archives of my outputs, as well as personal projects I'm c
 - Freaky with spreadsheets
 - Bit of experience in Web Development
 - Sound design hobbyist using FL Studio
-
+- Randomly tries out new and interesting stuff
